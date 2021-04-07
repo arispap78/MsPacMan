@@ -1,2 +1,2 @@
 # MsPacMan
- this is a small project for the class "Games and AI" in the MSc "Digital media and Computational Intelligence
+ This is a small project for the class "Games and AI" in the MSc "Digital media and Computational Intelligence". It is for the Implementation of an agent for controlling Ms PacMan (not the ghosts). There are also the diagrams of the Behavior Tree and the Finite State Machine which were design before the implementation of the code. The program was created for a competition and there was the Partial Observability rule which means that the agent can only know what there is only in the area that can observe(the path in which it is every moment). The class MyPacMan return in every instance the move command argument for Ms PacMan. 
